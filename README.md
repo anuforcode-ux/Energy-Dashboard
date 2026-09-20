@@ -64,8 +64,8 @@ Dashboard: Streamlit
 ⚙️ Setup & Installation
 bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/anuforcode-ux/Energy-Dashboard.git
+cd Energy-Dashboard
 
 # 2. Install dependencies
 pip install -r requirements.txt
