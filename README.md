@@ -80,11 +80,9 @@ python energy_project_full.py
 streamlit run dashboard.py
 🚀 Live Demo
 
-(Add your deployed Streamlit Community Cloud link here once deployed, e.g.:) https://your-app-name.streamlit.app
+https://energy-dashboard-ludp3xravxsdkqbxkxgskz.streamlit.app/
 
-📈 Sample Output
 
-(Add screenshots here — e.g. eda_graphs.png, anomaly_detection.png, final_model_comparison.png, and a screenshot of the dashboard itself)
 
 🔭 Future Work
 Replace simulated temperature with a real weather API
